@@ -3,12 +3,16 @@ Time series prediction using time steps technique
 
 ---
 
+The accuracy of this model is higher and it is an improvement over the one I created.
+
+---
+
 # How To Install
 
 install the project:
 
 ```
-git clone https://github.com/MohamedYasser343/Time-Series_Prediction.git
+git clone https://github.com/MohamedYasser343/Improved-Time-Series-Prediction.git
 ```
 
 Upload the code on jupyter notebook and run it
@@ -24,5 +28,4 @@ loaded_model.predict(X_test)
 ```
 
 ---
-# Note !!
-Remember to download **air-passengers.csv** from kaggle and place it with the code file.
+
