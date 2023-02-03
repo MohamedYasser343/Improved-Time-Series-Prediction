@@ -1,8 +1,6 @@
 # Improved-Time-Series-Prediction
 Time series prediction using time steps technique
 
----
-
 The accuracy of this model is higher and it is an improvement over the one I created.
 
 ---
